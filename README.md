@@ -14,9 +14,9 @@ Finally, the code ends with a report on the number and percentage of occurrences
 
 Result (extract)
 
-![alt text](https://github.com/AlexisDir/keyword_search_engine/blob/main/Screenshot_2.png?raw=true)
+![alt text](https://github.com/AlexisDir/keyword_search_engine/blob/main/Screenshot_3.png?raw=true)
 
 Report
 
-![alt text](https://github.com/AlexisDir/keyword_search_engine/blob/main/Screenshot_3.png?raw=true)
+![alt text](https://github.com/AlexisDir/keyword_search_engine/blob/main/Screenshot_2.png?raw=true)
 
