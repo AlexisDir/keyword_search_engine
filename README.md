@@ -1,4 +1,4 @@
-# Keyword search engine (with Python)
+# Keyword search engine (with Python on OS)
 
 This code allows you to search for keywords in a local text database.  
 Following the Russian doll principle, it is possible to determine the order of appearance of keywords and thus make a set of selections and sub-selections.  
